@@ -251,11 +251,6 @@ As a certified ServiceNow professional, I bring proven expertise in:
 - **Practice**: Personal Developer Instance (PDI)
 - **Community**: ServiceNow User Groups and meetups
 
-### Validation & Verification
-- **Credly Profile**: [Your Credly Badge URL]
-- **ServiceNow Profile**: [Your ServiceNow Community Profile]
-- **Certification Verification**: [ServiceNow Certification Verification Portal]
-
 ---
 
 ## 🎯 How This Repository Helps
