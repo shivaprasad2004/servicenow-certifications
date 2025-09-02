@@ -283,10 +283,10 @@ As a certified ServiceNow professional, I bring proven expertise in:
 ## 📞 Contact & Collaboration
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/shiva-prasad-76584124b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/shivaprasad2004" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:shivaprasadgubba2004@gmail.com" target="_blank">
